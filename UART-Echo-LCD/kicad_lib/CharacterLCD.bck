@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DISPLAY
+D Afficheur LCD nLignes
+K DEV
+$ENDCMP
+#
+$CMP LCD_CHAR_DISPLAY
+D Afficheur LCD nLignes
+K DEV
+$ENDCMP
+#
+#End Doc Library
